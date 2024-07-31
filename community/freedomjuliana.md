@@ -18,7 +18,5 @@
 
 # Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-804176?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-morais-5a1a47184/)
-
 [![Instagram](https://img.shields.io/badge/-Instagram-804176?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/freedm1lkyu/)
-
 [![Gmail](https://img.shields.io/badge/Gmail-804176?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julianadev.contato@gmail.com)
